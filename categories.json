@@ -103,7 +103,7 @@
                 "skin": "/assets/hats/Mcdonalds-hat.png"
             },
             {
-                "name": "Mining-helmet",
+                "name": "Mining Helmet",
                 "skin": "/assets/hats/Mining-helmet.png"
             },
             {
@@ -117,6 +117,39 @@
             {
                 "name": "Top Hat",
                 "skin": "/assets/hats/Top-hat.png"
+            }
+        ]
+    },
+    {
+        "name": "Masks",
+        "items": [{
+                "name": "None",
+                "skin": "/assets/blank_skin.png",
+                "thumbnail": "/assets/none_thumb.png"
+            },
+            {
+                "name": "Pumpkin Mask 1",
+                "skin": "/assets/masks/pumpkin-mask-1.png"
+            },
+            {
+                "name": "Pumpkin Mask 2",
+                "skin": "/assets/masks/pumpkin-mask-2.png"
+            },
+            {
+                "name": "Pumpkin Mask 3",
+                "skin": "/assets/masks/pumpkin-mask-3.png"
+            },
+            {
+                "name": "Pumpkin Mask 4",
+                "skin": "/assets/masks/pumpkin-mask-4.png"
+            },
+            {
+                "name": "Pumpkin",
+                "skin": "/assets/masks/pumpkin.png"
+            },
+            {
+                "name": "Pumpkin (Creeper)",
+                "skin": "/assets/masks/pumpkin-creeper.png"
             }
         ]
     }
