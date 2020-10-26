@@ -11,6 +11,11 @@
                 "thumbnail": "/assets/base/george_thumb.png"
             },
             {
+                "name": "George (Bare)",
+                "skin": "/assets/base/George_bare.png",
+                "thumbnail": "/assets/base/George_bare_thumb.png"
+            },
+            {
                 "name": "Test",
                 "skin": "/assets/base/test_map.png"
             }
