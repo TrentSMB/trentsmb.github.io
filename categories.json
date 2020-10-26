@@ -1,0 +1,86 @@
+[{
+        "name": "Base",
+        "items": [{
+                "name": "Steve",
+                "skin": "/assets/base/steve.png",
+                "thumbnail": "/assets/base/steve_thumb.png"
+            },
+            {
+                "name": "George",
+                "skin": "/assets/base/GeorgeNotFound.png",
+                "thumbnail": "/assets/base/george_thumb.png"
+            },
+            {
+                "name": "Test",
+                "skin": "/assets/base/test_map.png"
+            }
+        ]
+    },
+    {
+        "name": "Shirts",
+        "items": [{
+                "name": "None",
+                "skin": "/assets/blank_skin.png",
+                "thumbnail": "/assets/none_thumb.png"
+            },
+            {
+                "name": "Camo Shirt",
+                "skin": "/assets/shirts/Camo-shirt.png"
+            },
+            {
+                "name": "McDonald's Shirt",
+                "skin": "/assets/shirts/Mcdonalds-shirt.png"
+            },
+            {
+                "name": "Orange Shirt",
+                "skin": "/assets/shirts/Orange-shirt.png"
+            },
+            {
+                "name": "Knight Shirt",
+                "skin": "/assets/shirts/part__shirt_knight.png"
+            }
+        ]
+    },
+    {
+        "name": "Pants",
+        "items": [{
+                "name": "None",
+                "skin": "/assets/blank_skin.png",
+                "thumbnail": "/assets/none_thumb.png"
+            },
+            {
+                "name": "Battered Greaves",
+                "skin": "/assets/pants/Battered-Greaves.png"
+            },
+            {
+                "name": "Black Pants",
+                "skin": "/assets/pants/Black-pants.png"
+            },
+            {
+                "name": "Camo Pants",
+                "skin": "/assets/pants/Camo-pants.png"
+            },
+            {
+                "name": "Jeans",
+                "skin": "/assets/pants/Jeans.png"
+            },
+            {
+                "name": "Knight",
+                "skin": "/assets/pants/part_pants_knight.png"
+            }
+        ]
+    },
+    {
+        "name": "Hats",
+        "items": [{
+                "name": "None",
+                "skin": "/assets/blank_skin.png",
+                "thumbnail": "/assets/none_thumb.png"
+            },
+            {
+                "name": "Black Hat",
+                "skin": "/assets/hats/Black-hat.png"
+            }
+        ]
+    }
+]
