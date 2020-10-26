@@ -83,8 +83,40 @@
                 "thumbnail": "/assets/none_thumb.png"
             },
             {
+                "name": "American Football Helmet",
+                "skin": "/assets/hats/American-football-helmet.png"
+            },
+            {
+                "name": "Battered Helmet",
+                "skin": "/assets/hats/Battered-helmet.png"
+            },
+            {
                 "name": "Black Hat",
                 "skin": "/assets/hats/Black-hat.png"
+            },
+            {
+                "name": "Camo Helmet",
+                "skin": "/assets/hats/Camo-helmet.png"
+            },
+            {
+                "name": "McDonald's Hat",
+                "skin": "/assets/hats/Mcdonalds-hat.png"
+            },
+            {
+                "name": "Mining-helmet",
+                "skin": "/assets/hats/Mining-helmet.png"
+            },
+            {
+                "name": "Nod Helmet",
+                "skin": "/assets/hats/Nod-Helmet.png"
+            },
+            {
+                "name": "Santa Hat",
+                "skin": "/assets/hats/Santa-hat.png"
+            },
+            {
+                "name": "Top Hat",
+                "skin": "/assets/hats/Top-hat.png"
             }
         ]
     }
