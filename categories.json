@@ -129,27 +129,33 @@
             },
             {
                 "name": "Pumpkin Mask 1",
-                "skin": "/assets/masks/pumpkin-mask-1.png"
+                "skin": "/assets/masks/pumpkin-mask-1.png",
+                "thumbnail": "/assets/masks/pumpkin-mask-1_thumb.png"
             },
             {
                 "name": "Pumpkin Mask 2",
-                "skin": "/assets/masks/pumpkin-mask-2.png"
+                "skin": "/assets/masks/pumpkin-mask-2.png",
+                "thumbnail": "/assets/masks/pumpkin-mask-2_thumb.png"
             },
             {
                 "name": "Pumpkin Mask 3",
-                "skin": "/assets/masks/pumpkin-mask-3.png"
+                "skin": "/assets/masks/pumpkin-mask-3.png",
+                "thumbnail": "/assets/masks/pumpkin-mask-3_thumb.png"
             },
             {
                 "name": "Pumpkin Mask 4",
-                "skin": "/assets/masks/pumpkin-mask-4.png"
+                "skin": "/assets/masks/pumpkin-mask-4.png",
+                "thumbnail": "/assets/masks/pumpkin-mask-4_thumb.png"
             },
             {
                 "name": "Pumpkin",
-                "skin": "/assets/masks/pumpkin.png"
+                "skin": "/assets/masks/pumpkin.png",
+                "thumbnail": "/assets/masks/pumpkin_thumb.png"
             },
             {
                 "name": "Pumpkin (Creeper)",
-                "skin": "/assets/masks/pumpkin-creeper.png"
+                "skin": "/assets/masks/pumpkin-creeper.png",
+                "thumbnail": "/assets/masks/pumpkin-creeper_thumb.png"
             }
         ]
     }
